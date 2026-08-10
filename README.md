@@ -16,10 +16,16 @@ O esporte e a atividade física desempenham um papel fundamental na promoção d
 
 Para alimentar o NotebookLM e construir este estudo, foram selecionadas fontes em formato de vídeo focadas em psicologia do esporte, alta performance e saúde mental:
 
-1. **[Inserir Título do Vídeo 1]** - [Inserir Link do YouTube Aqui]
-2. **[Inserir Título do Vídeo 2]** - [Inserir Link do YouTube Aqui]
-3. **[Inserir Título do Vídeo 3]** - [Inserir Link do YouTube Aqui]
-4. **[Inserir Título do Vídeo 4]** - [Inserir Link do YouTube Aqui]
+📄 Artigos e Documentos (PDF/Web):
+1. Guia de Atividade Física - OMS: (https://ws.santabarbara.sp.gov.br/instar/esportes/downloads/guia_AF_OMS.pdf) - Diretrizes oficiais sobre saúde e movimentação.
+2. Overtraining: (Sinais e Riscos): (https://www.einstein.br/n/vida-saudavel/overtraining-conheca-os-sinais-e-os-riscos-do-exagero-nos-treinos) - Estudo do Hospital Israelita Albert Einstein sobre os perigos do exagero.
+3. Estudo sobre Atividade Física e Longevidade: (https://cref14.org.br/estudo-da-universidade-de-havard-aponta-que-atividade-fisica-proporciona-mais-vontade-de-viver/) - Pesquisa abordando os impactos positivos dos exercícios na qualidade de vida.
+
+🎬 Vídeos do YouTube:
+1. Título - vídeo 1: (INTRODUÇÃO À PSICOLOGIA DO ESPORTE) - Link do Youtube: (https://www.youtube.com/watch?v=4xVDifcKEd8)
+2. Título - vídeo 2: (Psicologia Aplicada a Atividade Física) - Link do YouTube: (https://www.youtube.com/watch?v=Gsk9JDPn_8Y)
+3. Título - vídeo 3: (A SAÚDE MENTAL DE ATLETAS DE ALTA PERFORMANCE) - Link do YouTube: (https://www.youtube.com/watch?v=FWQFFcmNNi4)
+4. Título - vídeo 4: (Disciplina e alta performance | César Cielo) - Link do YouTube: (https://www.youtube.com/watch?v=GORnnnFcK6Q)
 
 ---
 
