@@ -7,14 +7,14 @@ O esporte e a atividade física desempenham um papel fundamental na promoção d
 
 ### 🎯 Objetivos do Estudo
 * **Desmistificar a cultura da estética extrema:** Compreender através de bases fundamentadas por especialistas que a saúde e a constância devem sempre preceder qualquer exigência estética.
-* **Explorar o NotebookLM:** Utilizar a inteligência artificial para processar, resumir e estruturar conteúdos em vídeo focados em medicina esportiva, educação física e qualidade de vida.
+* **Explorar o NotebookLM:** Utilizar a inteligência artificial para processar, resumir e estruturar conteúdos em vídeo e textos PDF, focados em medicina esportiva, educação física e qualidade de vida.
 * **Desenvolver um Guia Prático:** Consolidar os aprendizados em um miniguia estruturado, contendo resumos, glossário de termos técnicos e prompts reutilizáveis para futuras pesquisas.
 
 ---
 
 ## 📚 Curadoria de Fontes
 
-Para alimentar o NotebookLM e construir este estudo, foram selecionadas fontes em formato de vídeo focadas em psicologia do esporte, alta performance e saúde mental:
+Para alimentar o NotebookLM e construir este estudo, foram selecionadas fontes em formato de vídeos e textos PDF, focadas em psicologia do esporte, alta performance e saúde mental:
 
 📄 Artigos e Documentos (PDF/Web):
 1. Guia de Atividade Física - OMS: (https://ws.santabarbara.sp.gov.br/instar/esportes/downloads/guia_AF_OMS.pdf) - Diretrizes oficiais sobre saúde e movimentação.
